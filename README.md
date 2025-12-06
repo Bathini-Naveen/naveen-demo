@@ -1,2 +1,4 @@
-# naveen-demo
-This is my first Git Repository.Author Naveen Bathini
+# Naveen-demo
+This is my first Git Repository.
+<br>
+Author Naveen Bathini
